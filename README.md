@@ -1,1 +1,1 @@
-# argo-cd-examples
+# app-center-examples
